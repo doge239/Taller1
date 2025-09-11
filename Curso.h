@@ -17,8 +17,8 @@ public:
     std::string getCodigo() const;
     std::string getNombre() const;
     std::string getCarrera() const;
-    int getCupoMaximo() const; // Nuevo método
-    std::string getProfesor() const; // Nuevo método
+    int getCupoMaximo() const; 
+    std::string getProfesor() const; 
 
     Curso* getSiguiente() const;   
     void setSiguiente(Curso* sig); 
