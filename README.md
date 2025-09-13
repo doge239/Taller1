@@ -1,3 +1,6 @@
+git clone https://github.com/doge239/Taller1
+
+
 # Sistema de Gestión Académica
 
 ## Integrantes del Grupo
